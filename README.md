@@ -1,1 +1,1 @@
-# Digit_recognizer_XGboostClassifier-Kaggle-TOP-5-
+# Digit_recognizer_XGboostClassifier-Kaggle-TOP-5%
